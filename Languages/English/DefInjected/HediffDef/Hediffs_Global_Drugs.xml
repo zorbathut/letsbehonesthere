@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<SmokeleafHigh.label>stoned on space weed</SmokeleafHigh.label>
-	<SmokeleafAddiction.label>Space weed dependence</SmokeleafAddiction.label>
+	<SmokeleafAddiction.label>space weed dependence</SmokeleafAddiction.label>
+	<SmokeleafTolerance.label>space weed tolerance</SmokeleafTolerance.label>
 </LanguageData>
